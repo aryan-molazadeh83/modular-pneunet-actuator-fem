@@ -1,0 +1,43 @@
+# Abaqus generated / working files
+*.odb
+*.lck
+*.log
+*.msg
+*.sta
+*.dat
+*.com
+*.sim
+*.res
+*.sel
+*.pac
+*.stt
+abaqus.rpy*
+*.jnl
+*.rec
+*.cae
+
+# Microsoft Office temporary / working files
+~$*
+*_working.docx
+
+# SolidWorks temporary / backup files
+*.bak
+*.tmp
+*.swp
+
+# Local raw figure sources
+results/figures/_source/
+
+# Local scratch / temporary directories
+scratch/
+temp/
+results/raw/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / editor settings
+.vscode/
+.idea/
