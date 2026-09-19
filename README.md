@@ -86,8 +86,7 @@ modular-pneunet-actuator-fem/
 │       ├── cad/
 │       ├── deformation/
 │       ├── displacement/
-│       ├── mesh/
-│       └── plots/
+│       └── mesh/
 ├── .gitignore
 ├── LICENSE.md
 └── README.md
